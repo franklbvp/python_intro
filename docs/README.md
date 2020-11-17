@@ -28,14 +28,14 @@ languages such as R, MATLAB, C/C++ or Fortran.
 
 ## Prerequisites
 
-basic programming knowledge
+basic programming knowledge, some background in another programming language
 
 ## Result
 
 Get a first taste of the Python Programming environment and the very basics.
 
 
-## Material related to the PythonIntroduction course
+## Material related to the Python Introduction course
 
 * [handson examples](https://github.com/franklbvp/python_intro/blob/main/docs/PythonIntro.zip)
 * [Training material GJ Bex](https://github.com/gjbex/training-material/tree/master/Python)
