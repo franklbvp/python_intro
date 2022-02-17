@@ -60,3 +60,7 @@ Get a first taste of the Python Programming environment and the very basics.
 | [Control Flow](https://github.com/franklbvp/python_intro/blob/main/docs/Python_intro-programming-control_flow.pdf) | [Control Flow](https://kuleuven.mediaspace.kaltura.com/media/Python_intro-programming-control_flow-nar/1_d9zn2v7e) | [control flow notebook](https://kuleuven.mediaspace.kaltura.com/media/nb_control_flow/1_l1878qen) |
 | [Functions](https://github.com/franklbvp/python_intro/blob/main/docs/Python_intro-programming-functions.pdf) | [Functions](https://kuleuven.mediaspace.kaltura.com/media/Python_intro-programming-functions-nar/1_okiulncn) | [functions notebook](https://kuleuven.mediaspace.kaltura.com/media/nb_functions/1_oxi6cqmc) |
 | [IO](https://github.com/franklbvp/python_intro/blob/main/docs/Python_intro-programming-io.pdf) | [IO](https://kuleuven.mediaspace.kaltura.com/media/Python_intro-programming-io-nar/1_nl2cbb5q) | [io notebook](https://kuleuven.mediaspace.kaltura.com/media/nb_io.mp4/1_474ihzea) |
+
+
+## Check also
+[Justin Bois (Caltech) Python Bootcamp](https://justinbois.github.io/bootcamp/2021/)
