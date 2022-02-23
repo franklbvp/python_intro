@@ -45,7 +45,6 @@ Get a first taste of the Python Programming environment and the very basics.
 |Slides | PowerPoint Narrative | Screencast Demo |
 |------------ | -------------------- | -----------------------|
 |[Overview session](https://github.com/franklbvp/python_intro/blob/main/docs/Python_asASecondLanguage_overview.pdf) | - | - |
-|[introduction GJ Bex](https://github.com/franklbvp/python_intro/blob/main/docs/python_intro_gjb-onlyintro.pdf)| - | - |
 | [User environment](https://github.com/franklbvp/python_intro/blob/main/docs/Python_intro-userEnvironments.pdf) | [User environment](https://kuleuven.mediaspace.kaltura.com/media/Python_intro-userEnvironments-nar/1_80q2k5xe) | [python / ipython](https://kuleuven.mediaspace.kaltura.com/media/demo_python_ipython_cli/1_rck4ajz7) |
 | []() | []() | [spyder](https://kuleuven.mediaspace.kaltura.com/media/demo_spyder_start/1_9fqn24qw) |
 | []() | []() | [jupyter](https://kuleuven.mediaspace.kaltura.com/media/demo_jupyter_start/1_jftaak04) |
