@@ -1,9 +1,8 @@
 # python_intro
 A short introduction into Python
 
-Python is an all-round programming language that has applications in many domains. 
-This training session introduces the programming language to participants who have programming experience with other programming
-languages such as R, MATLAB, C/C++ or Fortran.
+Python is an all-round programming language that can be applied in many domains. 
+This training session introduces the programming language to participants who have a basic programming experience. 
 
 ## Content
 
@@ -28,11 +27,11 @@ languages such as R, MATLAB, C/C++ or Fortran.
 
 ## Prerequisites
 
-basic programming knowlaedge
+basic programming knowledge
 
 ## Result
 
-Get a first taste of the Python Programming environment and the very basics.
+Get a first taste of the Python Programming environment and the (very) basics of the core elements of the Python programming language.
 
 ## Material
 
