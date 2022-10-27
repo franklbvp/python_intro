@@ -1,9 +1,8 @@
 # python_intro
 A short introduction into Python
 
-Python is an all-round programming language that has applications in many domains. 
-This training session introduces the programming language to participants who have programming experience with other programming
-languages such as R, MATLAB, C/C++ or Fortran.
+Python is an all-round programming language that can be applied in many domains. 
+This training session introduces the programming language to participants who have a basic programming experience. 
 
 ## Content
 
@@ -28,11 +27,11 @@ languages such as R, MATLAB, C/C++ or Fortran.
 
 ## Prerequisites
 
-basic programming knowledge, some background in another programming language
+Basic programming knowledge, some background in another programming language
 
 ## Result
 
-Get a first taste of the Python Programming environment and the very basics.
+Get a first taste of the Python Programming environment and the (very) basics of the core elements of the Python programming language.
 
 
 ## Material related to the Python Introduction course
@@ -62,4 +61,4 @@ Get a first taste of the Python Programming environment and the very basics.
 
 
 ## Check also
-[Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2021/)
+[Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2022/)
