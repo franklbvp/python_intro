@@ -29,6 +29,14 @@ This training session introduces the programming language to participants who ha
 
 Basic programming knowledge, some background in another programming language
 
+## Setup
+
+During the session, an Anaconda Python environment will be used to demonstrate the Linux material.
+
+It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards. Moreover having an environment installed, it will then be ready for use in your research.
+
+It is recommended to install the Anaconda distribution of Python which includes Jupyter notebook and several other packages. To install Anaconda [download the installer for your operating system](https://docs.anaconda.com/anaconda/) (select the Anaconda Distribution edition) and follow the installation instructions for your operating system in the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/).
+
 ## Result
 
 Get a first taste of the Python Programming environment and the (very) basics of the core elements of the Python programming language.
