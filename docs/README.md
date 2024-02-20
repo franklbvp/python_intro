@@ -69,4 +69,5 @@ Get a first taste of the Python Programming environment and the (very) basics of
 
 
 ## Check also
-[Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2022/)
+[Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2023/)
+[Guido van Rossum: Python Tutorial](https://bugs.python.org/file47781/Tutorial_EDIT.pdf)
