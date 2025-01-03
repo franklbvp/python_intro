@@ -6,11 +6,10 @@ This training session introduces the programming language to participants who ha
 
 ## Content
 
-- Getting to know the environment
-   - User environment
+- How to use Python
    - Command line
-   - Spyder
-   - Notebook
+   - Integrated Development Environment (IDE): Spyder
+   - Jupyter Lab / Notebook
 - Basic syntax 
 - Variables
 - Operators 
@@ -31,11 +30,9 @@ Basic programming knowledge, some background in another programming language
 
 ## Setup
 
-During the session, an Anaconda Python environment will be used to demonstrate the Linux material.
+During the session, a Miniforge Python environment will be used to demonstrate the material.
+The Miniforge Python is a minimal install of a python distribution that uses entirely conda-forge repositories. It easily installs, and you can easily create environments which are independent of each other. A [short guide](https://github.com/franklbvp/python_intro/blob/main/docs/python_install_miniforge.pdf) is available.
 
-It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards. Moreover having an environment installed, it will then be ready for use in your research.
-
-It is recommended to install the Anaconda distribution of Python which includes Jupyter notebook and several other packages. To install Anaconda [download the installer for your operating system](https://docs.anaconda.com/anaconda/) (select the Anaconda Distribution edition) and follow the installation instructions for your operating system in the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/).
 
 ## Result
 
@@ -49,7 +46,7 @@ Get a first taste of the Python Programming environment and the (very) basics of
 
 ## Slides and Video Material
 
-|Slides | PowerPoint Narrative | Screencast Demo |
+|Slides (2024) | PowerPoint Narrative (2020)| Screencast Demo (2020) |
 |------------ | -------------------- | -----------------------|
 |[Overview session](https://github.com/franklbvp/python_intro/blob/main/docs/Python_asASecondLanguage_overview.pdf) | - | - |
 | [User environment](https://github.com/franklbvp/python_intro/blob/main/docs/Python_intro-userEnvironments.pdf) | [User environment](https://kuleuven.mediaspace.kaltura.com/media/Python_intro-userEnvironments-nar/1_80q2k5xe) | [python / ipython](https://kuleuven.mediaspace.kaltura.com/media/demo_python_ipython_cli/1_rck4ajz7) |
@@ -69,5 +66,5 @@ Get a first taste of the Python Programming environment and the (very) basics of
 
 
 ## Check also
-* [Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2023/)
+* [Justin Bois (Caltech) Introduction to programming Bootcamp](https://justinbois.github.io/bootcamp/2024/)
 * [Guido van Rossum: Python Tutorial](https://bugs.python.org/file47781/Tutorial_EDIT.pdf)
